@@ -236,19 +236,19 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-> Flask Dashboard StarAdmin PRO - Widgets Screen
+> **Flask Dashboard StarAdmin PRO** - Widgets Screen
 
 ![Flask Dashboard StarAdmin PRO - Widgets Screen.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-staradmin-pro/flask-dashboard-staradmin-pro-screen-1.png)
 
 <br />
 
-> Flask Dashboard StarAdmin PRO - Charts Screen
+> **Flask Dashboard StarAdmin PRO** - Charts Screen
 
 ![Flask Dashboard StarAdmin PRO - Charts Screen.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-staradmin-pro/flask-dashboard-staradmin-pro-screen-4.png)
 
 <br />
 
-> Flask Dashboard StarAdmin PRO - Sales Reports Screen
+> **Flask Dashboard StarAdmin PRO** - Sales Reports Screen
 
 ![Flask Dashboard StarAdmin PRO - Sales Reports Screen.](https://raw.githubusercontent.com/app-generator/static/master/flask-dashboard-staradmin-pro/flask-dashboard-staradmin-pro-screen-3.png)
 
